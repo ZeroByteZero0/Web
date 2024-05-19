@@ -14,6 +14,7 @@ body{
     justify-content: center;
     flex-wrap: wrap;
     margin-top: 100px;
+    align-items: stretch;
 }
 
 .card{
@@ -26,7 +27,7 @@ body{
 }
 .card img{
     width: 100%;
-    height: 70%;
+    height: 50%;
 }
 
 .card-content{
@@ -46,10 +47,11 @@ body{
 
 .card-content .btn{
     display: inline-block;
-    padding:8px 16px;
+    padding: 24px;
     background-color: #333;
     text-decoration: none;
-    border-radius: 4px;
+    border-radius: 50%;
     margin-top: 16px;
     color:#fff;
+    text-align:center;
 }
