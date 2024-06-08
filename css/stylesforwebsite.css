@@ -66,11 +66,25 @@
     margin-right: 8px;
 }
 
+.seeprojects-button:hover{
+    color: blue;
+    background-color: red;
+}
 
 body{
     background-color:black;
     color: #fff;
 }
 
+a:hover{
+    color: blue;
+}
 
+a:active{
+    color: white;
+}
+
+a{
+    color: red;
+}
 
