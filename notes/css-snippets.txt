@@ -1,0 +1,7 @@
+making a circular bordered image
+    img src=""style="width: 400px; height: 400px; justify-content: left; border-radius: 50%;"
+
+    style="width:400px;height:400px;border-radius:50%;overflow:hidden;object-position:left;">
+
+in css specifying a class name to target a specific section of code...begin with a period (.)
+-for example changing the style of a section of code named  "fight" you'd do (.fight)
